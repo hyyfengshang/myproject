@@ -1,0 +1,360 @@
+2022-01-11 14:30:54,559 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:32:22,245 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:32:29,941 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:32:37,830 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:33:24,060 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:33:39,639 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:33:47,277 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:33:54,926 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:34:34,179 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:34:42,124 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:34:50,100 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:35:06,326 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:35:21,622 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:35:29,317 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:35:45,318 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-11 14:35:46,804 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,807 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,811 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,843 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,846 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,849 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,864 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,891 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,894 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,910 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,937 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,953 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,992 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,995 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:46,998 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,014 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,017 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,020 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,059 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,078 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,094 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,147 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,171 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,186 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,224 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,228 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,231 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,261 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,280 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,296 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,323 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,326 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,342 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,395 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,397 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,420 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,474 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,499 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,515 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,543 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,562 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,565 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,597 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,623 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,626 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,659 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,686 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,689 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,721 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,747 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,750 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,940 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,965 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:47,968 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,009 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,027 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,043 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,099 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,120 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,136 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,190 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,215 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,231 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,260 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,278 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,281 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,330 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,333 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,335 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,362 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,385 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,401 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,440 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,465 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,481 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,510 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,528 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,544 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,559 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,562 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,576 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,627 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,653 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,656 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,682 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,700 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,702 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,754 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,783 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,789 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,831 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,836 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,842 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,892 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,922 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,949 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:48,991 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,012 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,030 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,052 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,061 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,082 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,159 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,183 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,190 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,233 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,236 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,261 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,293 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,308 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,323 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,361 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,365 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,367 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,428 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,449 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,456 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,517 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,541 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,544 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,596 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,619 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,628 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,662 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,687 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,695 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,711 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,732 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,739 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,785 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,796 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,820 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,864 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,883 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,888 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,907 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,912 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,929 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:49,981 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:50,007 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:50,023 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:50,052 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:50,071 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:35:50,086 - AI_MODEL - ERROR - Backtrack markIdList is null
+2022-01-11 14:40:00,881 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:31:28,360 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:31:31,033 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:31:31,073 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:32:02,085 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:32:05,773 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:32:05,789 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:32:39,404 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:32:42,158 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:32:42,179 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:33:02,128 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:33:08,060 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:33:08,065 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:33:21,828 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:34:52,828 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:34:52,860 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:06,437 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:35:06,445 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:06,465 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:20,185 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:35:20,202 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:20,218 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:34,062 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:35:34,083 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:34,098 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:57,718 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:35:57,741 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:35:57,755 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:11,475 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:36:11,501 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:11,515 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:25,018 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:36:25,034 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:25,059 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:38,744 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:36:38,777 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:38,808 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:52,151 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:36:52,177 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:36:52,193 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:06,108 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:37:06,150 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:06,173 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:19,629 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:37:19,659 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:19,675 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:33,123 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:37:33,161 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:33,204 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:46,773 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:37:46,818 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:37:46,848 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:00,124 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:38:00,148 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:00,163 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:13,582 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:38:13,603 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:13,620 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:27,001 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 10:38:27,029 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 10:38:27,044 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:14,447 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:18:14,482 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:14,509 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:27,845 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:18:27,876 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:27,893 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:41,851 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:18:41,874 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:41,889 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:55,508 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:18:55,534 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:18:55,552 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:09,676 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:19:09,705 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:09,708 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:31,195 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:19:31,223 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:31,226 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:47,046 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:19:47,064 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:19:47,080 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:03,164 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:20:03,172 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:03,186 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:16,630 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:20:16,638 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:16,665 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:43,889 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:20:43,921 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:20:43,948 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:21:00,908 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:21:00,928 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:21:00,944 - AI_MODEL - ERROR - Backtrack data is null
+2022-01-13 11:21:18,585 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 11:35:33,091 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 14:02:14,230 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 14:04:28,704 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 14:19:42,483 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 14:23:23,369 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-13 14:29:06,329 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 16:57:52,640 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 16:58:07,271 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 16:59:13,521 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:21,617 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:28,917 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:36,137 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:43,259 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:50,575 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:01:58,158 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:02:19,555 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:02:38,763 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:02:48,095 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:02:57,864 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:07,749 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:16,451 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:25,754 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:33,817 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:40,783 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:03:47,924 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:06:57,892 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:05,234 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:12,610 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:19,776 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:27,040 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:34,662 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:41,789 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:49,182 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:07:56,441 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:03,727 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:12,093 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:19,441 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:26,491 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:34,603 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:41,516 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:49,006 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:08:57,346 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:04,554 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:14,641 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:21,852 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:28,934 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:35,983 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:42,916 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:49,961 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:09:56,878 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:10:04,244 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:10:11,408 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:13:33,237 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:13:40,804 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:13:48,148 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:13:55,452 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:02,841 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:10,341 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:17,440 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:25,606 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:33,356 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:40,973 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:48,379 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:14:55,687 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:02,886 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:10,077 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:17,265 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:24,559 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:31,745 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:38,611 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:45,989 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:15:53,069 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:16:00,151 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:16:08,908 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:16:16,672 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:16:24,663 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:24:53,527 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:25:08,929 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:26:16,468 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:28:30,899 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:28:37,994 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:28:45,433 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:28:52,683 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:28:59,706 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:29:06,921 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:29:13,897 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:29:20,894 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:09,014 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:16,384 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:24,713 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:31,750 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:38,850 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:45,901 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:30:55,080 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:31:02,177 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:34:27,862 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:34:34,913 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:34:42,355 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:34:49,999 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:34:57,246 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:35:15,466 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:35:23,763 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:35:30,979 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:35:38,328 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:35:45,807 - AI_MODEL - ERROR - df_th returns an empty DataFrame !
+2022-01-14 17:43:23,154 - AI_MODEL - ERROR - 100000100014319 Run in ear tang model filed!
